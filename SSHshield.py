@@ -16,9 +16,7 @@ namly GENERATOR.py
 #to run ./cyrptofinal.py ./(whateverthename).py
 #to shield your ssh just put ./cryptofinal.py ./(whateverthename).py
 
-""" AND OH if you found a way to make this work at rc.local please mail me. paulogrian@gmail.com
-and if you also want to give me a job ^_^ im 19 no job. i have a daughter. i can work as a networker(system admin stuff) and as a python dev. willing to be trained. 
-i will gradute this march 2016 :)"""
+""" AND OH if you found a way to make this work at rc.local please mail me. paulogrian@gmail.com"""
 import os
 import getpass
 import base64
